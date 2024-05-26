@@ -1,0 +1,11 @@
+package com.kh.app.baemin.cart.vo;
+
+public class StoreVo {
+	private String storeName;
+	private String storeImg;
+	private String foodImg;
+	private String foodName;
+	private String totalOrderPay;
+	private int foodPrice;
+	private int foodPrice;
+	
